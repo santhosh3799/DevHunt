@@ -1,0 +1,6 @@
+ {
+	"mongoURI":"mongodb+srv://Sandyvillers:talKdirtY123@devconnector.ydnd7.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"jwtSecret" :"mysecrettoken",
+	"githubClientId":"1c4b21acce60e2591c07",
+	"githubSecret":"9811e29e5c2769062076947a23875bed2bf2b106"	
+}
